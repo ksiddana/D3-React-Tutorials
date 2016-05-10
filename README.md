@@ -1,30 +1,19 @@
-<<<<<<< HEAD
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# Car Wash Application
 
-###Getting Started###
+Provide a UI implementation to the following requirement:
 
-There are two methods for getting started with this repo.
+* Implement a car repair shop that has a car wash, smog check, more in depth car repair services. A new customer can drive their car to one of the labelled service areas (car wash, smog, repair)
+* each service area has a line (or a queue), and there is one general queue before the service areas (imagine a car coming in to the shop from the street, then gets into one of the queues for a specific service.) When a service queue fills up, new cars have to queue up on the general queue.
+* If a car coming in can either be in a queue for a service area, or in a general queue leading to the service areas
+* you can use a button to create an incoming car
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
+###Running the Application
 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
+	> git clone git@github.com:ksiddana/D3-React-Tutorials.git
+	> cd D3-React-Tutorials/Whil-Coding-Exercise-List
 	> npm install
 	> npm start
 ```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
-=======
-# D3-React-Tutorials
-A Combination of D3, C3 and Victory libraries
->>>>>>> 64bc6919590b0dcb6e08b74cf811d1e477b771c2
+Once you have the npm modules installed. Open up your browser and go to [http://localhost:8080](http://localhost:8080)
