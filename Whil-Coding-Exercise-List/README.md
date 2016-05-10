@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -24,7 +23,3 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
-=======
-# D3-React-Tutorials
-A Combination of D3, C3 and Victory libraries
->>>>>>> 64bc6919590b0dcb6e08b74cf811d1e477b771c2
